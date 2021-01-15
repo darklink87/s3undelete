@@ -5,7 +5,7 @@ import (
 	"github.com/aws/aws-sdk-go/aws/awserr"
 	"log"
 	"os"
-	"s3undelete/pkg/s3undelete"
+	"github.com/darklink87/s3undelete/pkg/s3undelete"
 	"strings"
 	"time"
 )
